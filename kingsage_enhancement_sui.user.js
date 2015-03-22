@@ -666,7 +666,7 @@ var fr = {
     showAttacksOnMap: 'Sauvegarder attaque/afficher les attaques sur la carte',
     insertIntoRuntimeCalc: 'Insérer les attaques dans le calculateur de temps de trajet',
     highlightgroups: 'Marquage des groupes',
-    massdisband: 'Demobilation de masse amélioré',
+    massdisband: 'Démobilisation massive améliorée',
     simulator: 'Simulateur amélioré',
     filterOverview: 'Filtrer les troupes par heures d\'arrivée',
     bbCodeExport: 'Exporter les villages en BB-code',
